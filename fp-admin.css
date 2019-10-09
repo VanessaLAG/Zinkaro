@@ -1,0 +1,24 @@
+.wrap {
+    background : lightgrey;
+    box-shadow : 5px  5px 15px grey;
+    padding    : 15px;
+}
+ 
+#fp_admin fieldset {
+    max-width  : 600px;
+    border     : solid 1px;
+}
+ 
+#fp_admin legend {
+    font-weight: bold;
+    padding    : 3px 6px;
+}
+ 
+#fp_admin  input {
+    margin     : .4rem;
+}
+ 
+#fp_admin  input[type=text] {
+    width      : 96%;
+    margin     : .4rem 2%;
+}
